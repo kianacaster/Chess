@@ -5,39 +5,39 @@ This is my attempt at making chess in javascript
 # TO-DO
 - add all pieces
 
-      - Rook
-      - Knight
-      - Bishop
-      - King
-      - Queen
+      Rook
+      Knight
+      Bishop
+      King
+      Queen
       
 - fix drawing
 
-      - draw correct pieces on correct squares
+      Draw correct pieces on correct squares.
       
 - optimise
 
-      - less iterations over board array
+      Less iterations over board array.
       
 - fix selection
 
-      - accurate co-ords
-      - no delay
-      - ability to deselect
+      Accurate coords.
+      No delay.
+      Ability to deselect.
       
 - piece movement
 
-      - Is the move legal?
+      Is the move legal?
         - check if obstructed
         - in check?
-      - captures
+      Captures.
       
 - board setup
 
 - recognise win
 
-      - recognise checks and checkmate
-      - end game and announce winner
+      Recognise checks and checkmate.
+      End game and announce winner.
       
 - change players
 
